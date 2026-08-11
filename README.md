@@ -8,7 +8,9 @@
 
 > **Resource note (verified against Skill Builder, Aug 2026):** AWS Cloud Practitioner Essentials was overhauled in June 2025 and now has 13 modules, not the ~4 this plan originally assumed — citations below are remapped to the real module numbers, occasionally out of native course order to match the week's domain. The old "Exam Prep Standard Course" is flagged **[RETIRING]** on Skill Builder as of this writing, so it's dropped as a resource in favor of the Essentials modules directly, which now cover every domain, not just Domain 1.
 >
-> **Assumes an Individual subscription** ($29/mo or $449/yr) for the full training period — this unlocks the Official Practice Exam and the full 200+ lab Builder Labs catalog, both used below where hands-on practice adds real value on top of the Essentials videos. Everything else in the plan (Essentials, Official Pretest, Official Practice Question Set) is free either way. See [Subscription options](#subscription-options).
+> **Individual subscription** ($29/mo or $449/yr), started Tue 8/11 — this unlocks the Official Practice Exam and the full 200+ lab Builder Labs catalog, both used below where hands-on practice adds real value on top of the Essentials videos. Everything else in the plan (Essentials, Official Pretest, Official Practice Question Set) is free either way. See [Subscription options](#subscription-options).
+>
+> **Pocket Prep note (verified in-app, Aug 2026):** there is no "Diagnostic Test," "Pre-Assessment," "Flashcards," or dedicated full-exam-simulation feature — none of those exist as distinct modes for this exam, confirmed in-app. Every reference below is remapped to real mode names: **Build Your Own Quiz** (5–100 questions, filterable by domain — used for the domain-quiz, baseline, and full-exam-simulation citations, self-timed with an external clock where a timed simulation matters) and **Weakest Subject Quiz** (used in place of flashcards for rest-day light review). All quiz modes require Pocket Prep Premium; see the pricing note in [Resources](#resources).
 
 ## Exam blueprint
 
@@ -21,15 +23,15 @@
 
 ## Week 1 — Aug 6, 9–14 — Domain 1: Cloud Concepts
 
-- **Thu 8/6** — Set up: create Skill Builder account and start an Individual subscription, install Pocket Prep, read the CLF-C02 exam guide content outline start to finish. *(Pocket Prep: Diagnostic/Pre-Assessment test for a baseline)*
+- **Thu 8/6** — Set up: create Skill Builder account, install Pocket Prep, read the CLF-C02 exam guide content outline start to finish. *(Pocket Prep: Build Your Own Quiz — all subjects selected, ~40 Q, untimed, to baseline yourself)*
 - **Fri 8/7** — Unavailable.
 - **Sat 8/8** — Unavailable.
 - **Sun 8/9** — Missed.
 - **Mon 8/10** — Intro to the cloud & compute in the cloud. *(Essentials Module 1: Introduction to the Cloud + Module 2: Compute in the Cloud — free)*
 - **Tue 8/11** — Global infrastructure: Regions, AZs, edge locations. *(Essentials Module 4: Going Global + whitepaper "Overview of Amazon Web Services")*
 - **Wed 8/12** — Cloud value proposition; first pass on the Well-Architected Framework. *(Essentials Module 13: Well-Architected Solutions — taken out of order to match this week's Domain 1 focus)*
-- **Thu 8/13** — Quiz + review every explanation, right or wrong. *(Pocket Prep: Domain 1 quiz, untimed)*
-- **Fri 8/14** — Recap: re-read Domain 1 bullets in the exam guide. *(Pocket Prep: Domain 1 quiz #2, target ≥80%)*
+- **Thu 8/13** — Quiz + review every explanation, right or wrong. *(Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed)*
+- **Fri 8/14** — Recap: re-read Domain 1 bullets in the exam guide. *(Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%)*
 
 ## Week 2 — Aug 15–21 — Domain 2: Security & Compliance (+ start of Domain 3)
 
@@ -37,8 +39,8 @@
 - **Sun 8/16** — IAM: users, groups, roles, policies, MFA, root account best practices. *(AWS docs: IAM overview + Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies)*
 - **Mon 8/17** — Security services survey: GuardDuty, Inspector, Macie, Shield, WAF, Security Hub, KMS. *(Essentials Module 9: Security, continued + AWS "What is…" pages)*
 - **Tue 8/18** — Compliance programs and AWS Artifact; AWS vs. customer responsibility for GDPR/HIPAA-type frameworks. *(Essentials Module 10: Monitoring, Compliance, and Governance — compliance section)*
-- **Wed 8/19** — Quiz + review every explanation. *(Pocket Prep: Domain 2 quiz, untimed)*
-- **Thu 8/20** — Recap Domain 2 against the exam guide bullets. *(Pocket Prep: Domain 2 quiz #2, target ≥80%)*
+- **Wed 8/19** — Quiz + review every explanation. *(Pocket Prep: Build Your Own Quiz — Domain 2 only, untimed)*
+- **Thu 8/20** — Recap Domain 2 against the exam guide bullets. *(Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%)*
 - **Fri 8/21** — Compute: EC2 instance families, Lambda, Elastic Beanstalk, containers at a glance (ECS/EKS/Fargate). *(Essentials Module 3: Exploring Compute Services + Builder Lab: "Introduction to Amazon EC2")*
 
 ## Week 3 — Aug 22–28 — Domain 3: Compute, Storage, Networking & Management
@@ -46,7 +48,7 @@
 - **Sat 8/22** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). *(Essentials Module 6: Storage + Builder Lab: "Introduction to Amazon S3")*
 - **Sun 8/23** — Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect. *(Essentials Module 5: Networking + Builder Lab: "Introduction to Amazon VPC")*
 - **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually. *(Essentials Module 7: Databases + Builder Labs: browse the catalog for a DynamoDB or RDS hands-on lab)*
-- **Tue 8/25** — Quiz on compute/storage/network/database subset. *(Pocket Prep: Domain 3 quiz #1, untimed)*
+- **Tue 8/25** — Quiz on compute/storage/network/database subset. *(Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed)*
 - **Wed 8/26** — Recap the week; re-skim any service overview page that still feels unfamiliar.
 - **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager. *(Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section)*
 - **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness. *(Essentials Module 12: Migrating to the AWS Cloud + Module 8: AI/ML and Data Analytics — free)*
@@ -54,21 +56,21 @@
 ## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support (+ start of full review)
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on. *(Essentials Module 11: Pricing and Support + AWS Pricing Calculator — free)*
-- **Sun 8/30** — Rest day, light review only. *(Pocket Prep: Domain 4 flashcards)*
+- **Sun 8/30** — Rest day, light review only. *(Pocket Prep: Weakest Subject Quiz — Domain 4 focus)*
 - **Mon 8/31** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing. *(Essentials Module 11: Pricing and Support, continued + whitepaper "How AWS Pricing Works")*
-- **Tue 9/1** — Quiz on remaining Domain 3 topics + Domain 4 quiz. *(Pocket Prep)*
+- **Tue 9/1** — Quiz on remaining Domain 3 topics + Domain 4 quiz. *(Pocket Prep: Build Your Own Quiz — Domains 3 & 4, untimed)*
 - **Wed 9/2** — Recap Domains 3 & 4 against the exam guide bullets.
 - **Thu 9/3** — Take the official free practice set, then review every question. *(Skill Builder: Official Practice Question Set, 20 Q, free)*
-- **Fri 9/4** — First full-length timed exam simulation; review every miss in detail. *(Pocket Prep: full exam, 65 Q / 90 min)*
+- **Fri 9/4** — First full-length timed exam simulation; review every miss in detail. *(Pocket Prep: Build Your Own Quiz — all domains, 65 Q to match the real exam, self-timed to 90 min with an external clock — there's no dedicated exam-simulation mode)*
 
 ## Week 5 — Sep 5–11 — Full review, practice exams & exam day
 
 - **Sat 9/5** — Targeted re-study of the 1–2 weakest domains from Friday's exam.
-- **Sun 9/6** — Rest day, light review only. *(Pocket Prep: flashcards, weakest domain)*
-- **Mon 9/7** — Second full-length timed exam; compare score trend against last Friday. *(Pocket Prep)*
+- **Sun 9/6** — Rest day, light review only. *(Pocket Prep: Weakest Subject Quiz)*
+- **Mon 9/7** — Second full-length timed exam; compare score trend against last Friday. *(Pocket Prep: Build Your Own Quiz — all domains, 65 Q, self-timed to 90 min)*
 - **Tue 9/8** — Closest simulation to the real thing — treat it like exam day. *(Skill Builder: Official Practice Exam, 50 Q, timed — included with your Individual subscription)*
 - **Wed 9/9** — Review every miss; re-skim the Well-Architected Framework's 6 pillars and the shared-responsibility diagram. *(Essentials Module 13: Well-Architected Solutions, re-watch — free)*
-- **Thu 9/10** — Light review only, no new material. Flashcards on your weakest domain, one top-to-bottom skim of the exam guide outline. Confirm exam logistics. Sleep early.
+- **Thu 9/10** — Light review only, no new material. Weakest Subject Quiz (Pocket Prep) on your weakest domain, one top-to-bottom skim of the exam guide outline. Confirm exam logistics. Sleep early.
 - **Fri 9/11 — EXAM DAY** — Check in (or complete online proctoring check-in) 30 minutes early. No new material — trust the prep.
 
 ## Resources
@@ -95,14 +97,23 @@ Verified against [skillbuilder.aws/subscriptions](https://skillbuilder.aws/subsc
 | **Individual** ✅ *(this plan)* | $29/month or $449/year | Everything in Free, plus practice exams for select certifications (incl. the CLF-C02 Official Practice Exam), the full 200+ lab Builder Labs catalog, AWS Cloud Quest, AWS Jam |
 | **Team** | $449/seat/year, 5-seat minimum | Same content as Individual, plus team management, progress reporting, and SSO — not relevant for solo study |
 
-This plan assumes an **Individual subscription** for the full training window (Aug 6 – Sep 11, ~5 weeks). At $29/mo that's about $29–58 depending on billing timing, well under the $449 annual rate — pay monthly and cancel after exam day unless you plan to keep using Skill Builder. The subscription is what unlocks the Official Practice Exam (Tue 9/8) and the Builder Labs used on the Compute/Storage/Networking/Database/IAM days above; everything else in the plan is free regardless of tier.
+Individual subscription started **Tue 8/11**, running through exam day (Aug 11 – Sep 11, ~4.5 weeks). At $29/mo that's about $29–58 depending on billing timing, well under the $449 annual rate — cancel after exam day unless you plan to keep using Skill Builder. The subscription is what unlocks the Official Practice Exam (Tue 9/8) and the Builder Labs used on the Storage/Networking/Database/IAM days above (the earlier IAM survey on 8/16 falls after the subscription start, so no gap in coverage); everything else in the plan is free regardless of tier.
 
-**Pocket Prep**
-- Diagnostic test — run once on Day 1 to baseline each domain
-- Domain-filtered quizzes — untimed, Weeks 1–4
-- Flashcards — rest-day light review
-- Full-length timed exams — Week 5
-- Missed-question review — after every quiz and exam, read the explanation even on correct answers
+**Pocket Prep** — verified modes, Aug 2026 (all require Premium; a 30-question free trial is available otherwise): Question of the Day, Quick 10 Quiz, Timed Quiz (5/10 min), Level Up Quiz, Weakest Subject Quiz, Missed Questions Quiz, Build Your Own Quiz (5–100 Q, filterable by domain). There is no flashcards feature and no dedicated full-exam-simulation mode for this exam — both confirmed in-app.
+- Build Your Own Quiz, filtered to one domain — untimed, Weeks 1–4
+- Weakest Subject Quiz — rest-day light review (replaces the flashcards this plan originally assumed)
+- Build Your Own Quiz, all domains, 65 Q, self-timed to 90 min with an external clock — Week 5 exam simulations (replaces the "full-length mock exam" this plan originally assumed existed as a distinct mode)
+- Missed Questions Quiz — after every quiz and exam, read the explanation even on correct answers
+
+**Pocket Prep Premium pricing:** $20.99/month, $49.99/3 months (~$16.99/mo), or $124.99/year (~$10.99/mo). At roughly 5 weeks of use, the monthly plan (~$21–42 total) is likely cheaper than committing to the 3-month plan.
+
+## Progress log
+
+| Date | Item | Result |
+|---|---|---|
+| Mon 8/10 | Essentials Module 1: Introduction to the Cloud — knowledge check | 88% ✅ |
+| Tue 8/11 | Essentials Module 2: Compute in the Cloud — knowledge check | 93% ✅ |
+| Tue 8/11 (afternoon) | Individual subscription started | ✅ |
 
 ## Exam-day checklist
 
