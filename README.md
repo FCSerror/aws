@@ -28,7 +28,7 @@
 - **Sat 8/8** — Unavailable.
 - **Sun 8/9** — Missed.
 - **Mon 8/10** — Intro to the cloud & compute in the cloud. *(Essentials Module 1: Introduction to the Cloud + Module 2: Compute in the Cloud — free)*
-- **Tue 8/11** — Global infrastructure: Regions, AZs, edge locations. *(Essentials Module 4: Going Global + whitepaper "Overview of Amazon Web Services")*
+- **Tue 8/11** — Global infrastructure: Regions, AZs, edge locations. *(Essentials Module 4: Going Global + whitepaper ["Overview of Amazon Web Services"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))*
 - **Wed 8/12** — Cloud value proposition; first pass on the Well-Architected Framework. *(Essentials Module 13: Well-Architected Solutions — taken out of order to match this week's Domain 1 focus)*
 - **Thu 8/13** — Quiz + review every explanation, right or wrong. *(Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed)*
 - **Fri 8/14** — Recap: re-read Domain 1 bullets in the exam guide. *(Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%)*
@@ -57,7 +57,7 @@
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on. *(Essentials Module 11: Pricing and Support + AWS Pricing Calculator — free)*
 - **Sun 8/30** — Rest day, light review only. *(Pocket Prep: Weakest Subject Quiz — Domain 4 focus)*
-- **Mon 8/31** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing. *(Essentials Module 11: Pricing and Support, continued + whitepaper "How AWS Pricing Works")*
+- **Mon 8/31** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing. *(Essentials Module 11: Pricing and Support, continued + whitepaper ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html))*
 - **Tue 9/1** — Quiz on remaining Domain 3 topics + Domain 4 quiz. *(Pocket Prep: Build Your Own Quiz — Domains 3 & 4, untimed)*
 - **Wed 9/2** — Recap Domains 3 & 4 against the exam guide bullets.
 - **Thu 9/3** — Take the official free practice set, then review every question. *(Skill Builder: Official Practice Question Set, 20 Q, free)*
@@ -82,7 +82,7 @@
 - Official Practice Question Set — Skill Builder, free, 20 questions
 - Official Practice Exam — Skill Builder, 50 questions, timed — included with the Individual subscription
 - AWS Builder Labs — Skill Builder, 200+ hands-on sandboxed labs with Individual subscription (10 foundational labs, incl. EC2/S3/VPC intros, are free even without one); used on Compute, Storage, Networking, Database, and IAM days above for hands-on reinforcement
-- Whitepapers: *Overview of Amazon Web Services*, *AWS Well-Architected Framework*, *How AWS Pricing Works*
+- Whitepapers: [*Overview of Amazon Web Services*](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html), [*AWS Well-Architected Framework*](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (the standalone PDF is archived — this is now living documentation, updated continuously rather than versioned), [*How AWS Pricing Works*](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
 - AWS Pricing Calculator — hands-on tool, free
 
 > The old "Exam Prep Standard Course: AWS Certified Cloud Practitioner (CLF-C02)" is marked **[RETIRING]** on Skill Builder as of Aug 2026 and is intentionally not used above — the Essentials modules now cover the same ground and are more likely to stay current.
@@ -115,6 +115,7 @@ Individual subscription started **Tue 8/11**, running through exam day (Aug 11 �
 | Tue 8/11 | Essentials Module 2: Compute in the Cloud — knowledge check | 93% ✅ |
 | Tue 8/11 (afternoon) | Individual subscription started | ✅ |
 | Tue 8/11 | Pocket Prep Premium started (monthly plan, $20.99/mo) | ✅ |
+| Tue 8/11 | Essentials Module 4: Going Global — knowledge check | 83% ✅ |
 
 ## Exam-day checklist
 
