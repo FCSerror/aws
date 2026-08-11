@@ -105,7 +105,7 @@ Individual subscription started **Tue 8/11**, running through exam day (Aug 11 �
 - Build Your Own Quiz, all domains, 65 Q, self-timed to 90 min with an external clock — Week 5 exam simulations (replaces the "full-length mock exam" this plan originally assumed existed as a distinct mode)
 - Missed Questions Quiz — after every quiz and exam, read the explanation even on correct answers
 
-**Pocket Prep Premium pricing:** $20.99/month, $49.99/3 months (~$16.99/mo), or $124.99/year (~$10.99/mo). At roughly 5 weeks of use, the monthly plan (~$21–42 total) is likely cheaper than committing to the 3-month plan.
+**Pocket Prep Premium pricing:** $20.99/month ✅ *(this plan)*, $49.99/3 months (~$16.99/mo), or $124.99/year (~$10.99/mo). On the monthly plan — remember to cancel after exam day, since a 5-week window is ~2 billing cycles (~$42 total) rather than committing to the 3-month rate.
 
 ## Progress log
 
@@ -114,6 +114,7 @@ Individual subscription started **Tue 8/11**, running through exam day (Aug 11 �
 | Mon 8/10 | Essentials Module 1: Introduction to the Cloud — knowledge check | 88% ✅ |
 | Tue 8/11 | Essentials Module 2: Compute in the Cloud — knowledge check | 93% ✅ |
 | Tue 8/11 (afternoon) | Individual subscription started | ✅ |
+| Tue 8/11 | Pocket Prep Premium started (monthly plan, $20.99/mo) | ✅ |
 
 ## Exam-day checklist
 
