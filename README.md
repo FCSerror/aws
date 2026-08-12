@@ -117,6 +117,7 @@ Individual subscription started **Tue 8/11**, running through exam day (Aug 11 �
 | Tue 8/11 | Pocket Prep Premium started (monthly plan, $20.99/mo) | ✅ |
 | Tue 8/11 | Essentials Module 4: Going Global — knowledge check | 83% ✅ |
 | Tue 8/11 | Whitepaper "Overview of Amazon Web Services" — read | ✅ |
+| Wed 8/12 | Essentials Module 13: Well-Architected Solutions — knowledge check | 100% ✅ |
 
 ## Exam-day checklist
 
