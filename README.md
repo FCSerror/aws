@@ -25,14 +25,14 @@
 
 ## Week 1 — Aug 6, 9–14 — Domain 1: Cloud Concepts
 
-- **Thu 8/6** — Set up: create Skill Builder account, install Pocket Prep, read the CLF-C02 exam guide content outline start to finish, watch the two short Exam Prep Plan intro videos. *(Pocket Prep: Build Your Own Quiz — all subjects selected, ~40 Q, untimed, to baseline yourself + Skill Builder: Exam Prep Plan Overview, 15m, free + Exam Prep Overview, 20m, free)*
+- **Thu 8/6** — Set up: create Skill Builder account, install Pocket Prep, read the CLF-C02 exam guide content outline start to finish. *(Pocket Prep: Build Your Own Quiz — all subjects selected, ~40 Q, untimed, to baseline yourself)*
 - **Fri 8/7** — Unavailable.
 - **Sat 8/8** — Unavailable.
 - **Sun 8/9** — Missed.
 - **Mon 8/10** — Intro to the cloud & compute in the cloud. *(Essentials Module 1: Introduction to the Cloud + Module 2: Compute in the Cloud — free)*
 - **Tue 8/11** — Global infrastructure: Regions, AZs, edge locations. *(Essentials Module 4: Going Global + whitepaper ["Overview of Amazon Web Services"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html))*
 - **Wed 8/12** — Cloud value proposition; first pass on the Well-Architected Framework. *(Essentials Module 13: Well-Architected Solutions — taken out of order to match this week's Domain 1 focus)*
-- **Thu 8/13** — Quiz + review every explanation, right or wrong. *(Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed + Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m, subscription)*
+- **Thu 8/13** — Watch the two short Exam Prep Plan intro videos, then quiz + review every explanation, right or wrong. *(Skill Builder: Exam Prep Plan Overview, 15m, free + Exam Prep Overview, 20m, free + Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed + Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m, subscription)*
 - **Fri 8/14** — Recap: Domain 1 Review video, hands-on SimuLearn scenario, re-read Domain 1 bullets in the exam guide. *(Skill Builder: Domain 1 Review, 1h 5m, free + Domain 1 Practice: AWS SimuLearn, 1h, subscription + Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%)*
 
 ## Week 2 — Aug 15–21 — Domain 2: Security & Compliance (+ start of Domain 3)
@@ -79,7 +79,7 @@
 
 **Official AWS** — cross-checked against the official [Exam Prep Plan: AWS Certified Cloud Practitioner (CLF-C02)](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2) outline (19 trainings, 32h 20m total), captured Aug 12, 2026 — every training in that plan is now used somewhere in the schedule above
 - AWS Cloud Practitioner Essentials — Skill Builder, free, self-paced, 13 modules (Introduction to the Cloud, Compute in the Cloud, Exploring Compute Services, Going Global, Networking, Storage, Databases, AI/ML and Data Analytics, Security, Monitoring/Compliance/Governance, Pricing and Support, Migrating to the AWS Cloud, Well-Architected Solutions) — covers all 4 exam domains, not just Domain 1; this plan pulls modules out of native order to match each week's domain focus
-- Exam Prep Plan Overview (15m) + Exam Prep Overview (20m) — Skill Builder, free — short intro videos, watched Day 1 (8/6)
+- Exam Prep Plan Overview (15m) + Exam Prep Overview (20m) — Skill Builder, free — short intro videos, watched 8/13
 - Domain 1–4 Review videos — Skill Builder, free, ~1h 5m each — exam-specific topic review per domain, distinct from the Essentials modules; used on each domain's recap day
 - Domain 1–4 Practice — Skill Builder, subscription, 40m–1h each — exam-style questions + flashcards per domain; used alongside Pocket Prep on each domain's quiz day
 - Domain 1–3 Practice: AWS SimuLearn — Skill Builder, subscription, 1h each, AI-guided scenario + hands-on console lab per domain — no Domain 4 version exists; used on each domain's recap day
