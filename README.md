@@ -1,16 +1,8 @@
 # AWS Certified Cloud Practitioner (CLF-C02) — Study Plan
 
 **Exam date:** Friday, Sept 11, 2026
-**Training starts:** Thursday, Aug 6, 2026 (34 available study days — Aug 7 and Aug 8 unavailable, Aug 9 missed)
+**Training starts:** Thursday, Aug 6, 2026 
 **Resources:** AWS Skill Builder + Pocket Prep app
-
-> **Schedule note:** Fri 8/7 and Sat 8/8 were unavailable; every day after 8/6 shifted later by 2 days to absorb the gap, and 2 of the original 5 rest days (Week 1 and Week 3) were dropped to keep the exam date fixed at 9/11. Sun 8/9's session didn't happen — its content moved to Mon 8/10, and everything through 8/17 shifted one day later to absorb it, dropping the Week 2 rest day (formerly Mon 8/17) to keep the exam date fixed at 9/11. Everything from 8/18 onward is unchanged.
-
-> **Resource note (verified against Skill Builder, Aug 2026):** AWS Cloud Practitioner Essentials was overhauled in June 2025 and now has 13 modules, not the ~4 this plan originally assumed — citations below are remapped to the real module numbers, occasionally out of native course order to match the week's domain. The old "Exam Prep Standard Course" is flagged **[RETIRING]** on Skill Builder as of this writing, so it's dropped as a resource in favor of the Essentials modules directly, which now cover every domain, not just Domain 1.
->
-> **Pocket Prep note (verified in-app, Aug 2026):** there is no "Diagnostic Test," "Pre-Assessment," "Flashcards," or dedicated full-exam-simulation feature — none of those exist as distinct modes for this exam, confirmed in-app. Every reference below is remapped to real mode names: **Build Your Own Quiz** (5–100 questions, filterable by domain — used for the domain-quiz, baseline, and full-exam-simulation citations, self-timed with an external clock where a timed simulation matters) and **Weakest Subject Quiz** (used in place of flashcards for rest-day light review).
->
-> **Skill Builder Exam Prep Plan note (verified against the official [Exam Prep Plan: AWS Certified Cloud Practitioner (CLF-C02)](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2) outline, captured Aug 12, 2026):** the official plan bundles 19 trainings (32h 20m total), not just the Essentials course — 4 domain Review videos, 4 domain Practice sets (exam-style questions + flashcards), 3 SimuLearn hands-on domain labs (Domains 1–3 only, no Domain 4 version exists), the Escape Room game, an Official Pretest, and short intro/summary videos. All 19 are now folded into the schedule below. One correction from the prior version of this plan: the Official Practice Exam is **65 questions / 90 minutes**, not 50 questions as previously stated.
 
 ## Exam blueprint
 
@@ -91,8 +83,6 @@
 - Whitepapers: [*Overview of Amazon Web Services*](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html), [*AWS Well-Architected Framework*](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (the standalone PDF is archived — this is now living documentation, updated continuously rather than versioned), [*How AWS Pricing Works*](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
 - AWS Pricing Calculator — hands-on tool
 - Pocket Prep — Build Your Own Quiz (filtered to one domain, untimed) for Weeks 1–4 domain quizzes and the Day 1 baseline; Weakest Subject Quiz for rest-day light review; Build Your Own Quiz (all domains, 65 Q, self-timed to 90 min with an external clock) for the Week 5 exam simulations; Missed Questions Quiz after every quiz and exam to review explanations, even on correct answers
-
-> The old "Exam Prep Standard Course: AWS Certified Cloud Practitioner (CLF-C02)" is marked **[RETIRING]** on Skill Builder as of Aug 2026 and is intentionally not used above — the Essentials modules now cover the same ground and are more likely to stay current.
 
 ## Progress log
 
