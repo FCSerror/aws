@@ -42,7 +42,7 @@
 ## Week 2 — Aug 15–21 — Domain 2: Security & Compliance (+ start of Domain 3)
 
 - **Sat 8/15** — Finish Domain 1 recap, plus an early diagnostic.
-    - [ ] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
+    - [x] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
     - [ ] Re-read Domain 1 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
     - [ ] Official Pretest, 65 Q, 90 min timed, per-domain scoring
@@ -167,6 +167,7 @@
 | Thu 8/13 | Official Practice Question Set — 20 Q | 65% ✅ |
 | Thu 8/13 | Skill Builder: Domain 1 Review video (1h 5m) — watched | ✅ |
 | Fri 8/14 | Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m | ✅ |
+| Sat 8/15 | Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h — completed | ✅ |
 
 ## Exam-day checklist
 
