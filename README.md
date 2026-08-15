@@ -41,11 +41,10 @@
 
 ## Week 2 — Aug 15–21 — Domain 2: Security & Compliance (+ start of Domain 3)
 
-- **Sat 8/15** — Finish Domain 1 recap, plus an early diagnostic.
+- **Sat 8/15** — Finish Domain 1 recap.
     - [x] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
     - [ ] Re-read Domain 1 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
-    - [ ] Official Pretest, 65 Q, 90 min timed, per-domain scoring
 - **Sun 8/16** — Shared Responsibility Model in depth; IAM: users, groups, roles, policies, MFA, root account best practices.
     - [ ] Essentials Module 9: Security
     - [ ] AWS docs: IAM overview
@@ -108,15 +107,15 @@
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
 - **Thu 9/3** — Take the official practice set, then review every question.
     - [x] Skill Builder: Official Practice Question Set, 20 Q
-- **Fri 9/4** — Open/buffer day — no new required material; catch up on anything behind schedule or revisit weak spots flagged by the 8/15 Pretest.
+- **Fri 9/4** — Open/buffer day — no new required material; catch up on anything behind schedule.
 
 ## Week 5 — Sep 5–11 — Full review, practice exams & exam day
 
-- **Sat 9/5** — Retake the Official Pretest to see how much Domain 2–4 coverage moved the needle since 8/15.
+- **Sat 9/5** — First full-length timed exam simulation, now that all four domains are covered.
     - [ ] Skill Builder: Official Pretest, 65 Q, 90 min timed, per-domain scoring
 - **Sun 9/6** — Rest day, light review only.
     - [ ] Pocket Prep: Weakest Subject Quiz
-- **Mon 9/7** — Another full-length timed exam; compare score trend against Saturday's Pretest retake.
+- **Mon 9/7** — Another full-length timed exam; compare score trend against Saturday's Pretest.
     - [ ] Pocket Prep: Build Your Own Quiz — all domains, 65 Q, self-timed to 90 min
 - **Tue 9/8** — Closest simulation to the real thing — treat it like exam day.
     - [ ] Skill Builder: Official Practice Exam, 65 Q, 90 min timed
@@ -139,8 +138,7 @@
 - Domain 1–4 Review videos — Skill Builder, ~1h 5m each — exam-specific topic review per domain, distinct from the Essentials modules; used on each domain's recap day
 - Domain 1–4 Practice — Skill Builder, 40m–1h each — exam-style questions + flashcards per domain; used alongside Pocket Prep on each domain's quiz day
 - Domain 1–3 Practice: AWS SimuLearn — Skill Builder, 1h each, AI-guided scenario + hands-on console lab per domain — no Domain 4 version exists; used on each domain's recap day
-- AWS Escape Room: Exam Prep — Skill Builder, ~2–3h practice mode (listed as 5h) — gamified full-topic review; used 9/5
-- Official Pretest — Skill Builder, 65 questions, 90 min timed, per-domain scoring — used 8/15 as an early full-length diagnostic ahead of Domains 2–4 coverage, then retaken 9/5
+- Official Pretest — Skill Builder, 65 questions, 90 min timed, per-domain scoring — used 9/5, the week of the exam, once all four domains are covered
 - CLF-C02 Exam Guide (PDF) — content outline & domain weightings
 - Official Practice Question Set — Skill Builder, 20 questions
 - Official Practice Exam — Skill Builder, **65 questions, 90 min timed** (corrected from 50 Q)
