@@ -35,7 +35,7 @@
     - [x] Skill Builder: Exam Prep Plan Overview, 15m
     - [x] Skill Builder: Exam Prep Overview, 20m
     - [x] Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed
-    - [ ] Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m
+    - [x] Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m
 - **Fri 8/14** — Recap day, plus an early diagnostic.
     - [x] Skill Builder: Domain 1 Review, 1h 5m
     - [ ] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
@@ -166,6 +166,7 @@
 | Thu 8/13 | Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed, 60 Q | 73% ✅ |
 | Thu 8/13 | Official Practice Question Set — 20 Q | 65% ✅ |
 | Thu 8/13 | Skill Builder: Domain 1 Review video (1h 5m) — watched | ✅ |
+| Fri 8/14 | Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m | ✅ |
 
 ## Exam-day checklist
 
