@@ -43,7 +43,7 @@
 
 - **Sat 8/15** — Finish Domain 1 recap.
     - [x] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
-    - [ ] Re-read Domain 1 bullets in the exam guide
+    - [x] Re-read Domain 1 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
 - **Sun 8/16** — Shared Responsibility Model in depth; IAM: users, groups, roles, policies, MFA, root account best practices.
     - [ ] Essentials Module 9: Security
@@ -106,7 +106,7 @@
 - **Wed 9/2** — Recap Domains 3 & 4 against the exam guide bullets.
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
 - **Thu 9/3** — Take the official practice set, then review every question.
-    - [x] Skill Builder: Official Practice Question Set, 20 Q
+    - [X] Skill Builder: Official Practice Question Set, 20 Q
 - **Fri 9/4** — Full-topic review via the gamified escape room; otherwise open/buffer, catch up on anything behind schedule.
     - [ ] Skill Builder: AWS Escape Room: Exam Prep for CLF-C02, ~2–3h practice mode
 
@@ -168,6 +168,7 @@
 | Thu 8/13 | Skill Builder: Domain 1 Review video (1h 5m) — watched | ✅ |
 | Fri 8/14 | Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m | ✅ |
 | Sat 8/15 | Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h — completed | ✅ |
+| Sat 8/15 | Re-read Domain 1 bullets in the exam guide | ✅ |
 
 ## Exam-day checklist
 
