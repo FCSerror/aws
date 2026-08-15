@@ -2,7 +2,7 @@
 
 **Exam date:** Friday, Sept 11, 2026
 **Training starts:** Thursday, Aug 6, 2026 
-**Resources:** AWS Skill Builder + Pocket Prep app
+**Resources:** AWS Skill Builder (Individual subscription active) + Pocket Prep app (Premium active)
 
 ## Exam blueprint
 
@@ -107,7 +107,8 @@
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
 - **Thu 9/3** — Take the official practice set, then review every question.
     - [x] Skill Builder: Official Practice Question Set, 20 Q
-- **Fri 9/4** — Open/buffer day — no new required material; catch up on anything behind schedule.
+- **Fri 9/4** — Full-topic review via the gamified escape room; otherwise open/buffer, catch up on anything behind schedule.
+    - [ ] Skill Builder: AWS Escape Room: Exam Prep for CLF-C02, ~2–3h practice mode
 
 ## Week 5 — Sep 5–11 — Full review, practice exams & exam day
 
@@ -138,6 +139,7 @@
 - Domain 1–4 Review videos — Skill Builder, ~1h 5m each — exam-specific topic review per domain, distinct from the Essentials modules; used on each domain's recap day
 - Domain 1–4 Practice — Skill Builder, 40m–1h each — exam-style questions + flashcards per domain; used alongside Pocket Prep on each domain's quiz day
 - Domain 1–3 Practice: AWS SimuLearn — Skill Builder, 1h each, AI-guided scenario + hands-on console lab per domain — no Domain 4 version exists; used on each domain's recap day
+- AWS Escape Room: Exam Prep — Skill Builder, ~2–3h practice mode (listed as 5h) — gamified full-topic review; used 9/4
 - Official Pretest — Skill Builder, 65 questions, 90 min timed, per-domain scoring — used 9/5, the week of the exam, once all four domains are covered
 - CLF-C02 Exam Guide (PDF) — content outline & domain weightings
 - Official Practice Question Set — Skill Builder, 20 questions
