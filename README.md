@@ -16,28 +16,28 @@
 ## Week 1 — Aug 6, 9–14 — Domain 1: Cloud Concepts
 
 - **Thu 8/6** — Set up and baseline.
-    - [ ] Create Skill Builder account
-    - [ ] Install Pocket Prep
-    - [ ] Read the CLF-C02 exam guide content outline start to finish
-    - [ ] Pocket Prep: Build Your Own Quiz — all subjects selected, ~40 Q, untimed, to baseline yourself
+    - [x] Create Skill Builder account
+    - [x] Install Pocket Prep
+    - [x] Read the CLF-C02 exam guide content outline start to finish
+    - [x] Pocket Prep: Build Your Own Quiz — all subjects selected, ~40 Q, untimed, to baseline yourself
 - **Fri 8/7** — Unavailable.
 - **Sat 8/8** — Unavailable.
 - **Sun 8/9** — Missed.
 - **Mon 8/10** — Intro to the cloud & compute in the cloud.
-    - [ ] Essentials Module 1: Introduction to the Cloud
-    - [ ] Essentials Module 2: Compute in the Cloud
+    - [x] Essentials Module 1: Introduction to the Cloud
+    - [x] Essentials Module 2: Compute in the Cloud
 - **Tue 8/11** — Global infrastructure: Regions, AZs, edge locations.
-    - [ ] Essentials Module 4: Going Global
-    - [ ] Whitepaper: ["Overview of Amazon Web Services"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+    - [x] Essentials Module 4: Going Global
+    - [x] Whitepaper: ["Overview of Amazon Web Services"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
 - **Wed 8/12** — Cloud value proposition; first pass on the Well-Architected Framework.
-    - [ ] Essentials Module 13: Well-Architected Solutions — taken out of order to match this week's Domain 1 focus
+    - [x] Essentials Module 13: Well-Architected Solutions — taken out of order to match this week's Domain 1 focus
 - **Thu 8/13** — Watch the intro videos, then quiz and review every explanation, right or wrong.
-    - [ ] Skill Builder: Exam Prep Plan Overview, 15m
-    - [ ] Skill Builder: Exam Prep Overview, 20m
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed
+    - [x] Skill Builder: Exam Prep Plan Overview, 15m
+    - [x] Skill Builder: Exam Prep Overview, 20m
+    - [x] Pocket Prep: Build Your Own Quiz — Domain 1 only, untimed
     - [ ] Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m
 - **Fri 8/14** — Recap day, plus an early diagnostic.
-    - [ ] Skill Builder: Domain 1 Review, 1h 5m
+    - [x] Skill Builder: Domain 1 Review, 1h 5m
     - [ ] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
     - [ ] Re-read Domain 1 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
@@ -107,7 +107,7 @@
 - **Wed 9/2** — Recap Domains 3 & 4 against the exam guide bullets.
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
 - **Thu 9/3** — Take the official practice set, then review every question.
-    - [ ] Skill Builder: Official Practice Question Set, 20 Q
+    - [x] Skill Builder: Official Practice Question Set, 20 Q
 - **Fri 9/4** — Open/buffer day — no new required material; catch up on anything behind schedule or revisit weak spots flagged by the 8/14 Pretest.
 
 ## Week 5 — Sep 5–11 — Full review, practice exams & exam day
