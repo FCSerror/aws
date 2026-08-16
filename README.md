@@ -46,12 +46,12 @@
     - [x] Re-read Domain 1 bullets in the exam guide
     - [x] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
 - **Sun 8/16** — Shared Responsibility Model in depth; IAM: users, groups, roles, policies, MFA, root account best practices.
-    - [ ] Essentials Module 9: Security
-    - [ ] AWS docs: IAM overview
-    - [ ] Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies
+    - [x] Essentials Module 9: Security
+    - [x] AWS docs: IAM overview
 - **Mon 8/17** — Security services survey: GuardDuty, Inspector, Macie, Shield, WAF, Security Hub, KMS.
-    - [ ] Essentials Module 9: Security, continued
+    - [x] Essentials Module 9: Security, continued
     - [ ] AWS "What is…" pages
+    - [ ] Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies
 - **Tue 8/18** — Compliance programs and AWS Artifact; AWS vs. customer responsibility for GDPR/HIPAA-type frameworks.
     - [ ] Essentials Module 10: Monitoring, Compliance, and Governance — compliance section
 - **Wed 8/19** — Quiz and review every explanation.
@@ -170,6 +170,9 @@
 | Sat 8/15 | Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h — completed | ✅ |
 | Sat 8/15 | Re-read Domain 1 bullets in the exam guide | ✅ |
 | Sun 8/16 | Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, 60 Q | 90% ✅ |
+| Sun 8/16 | Essentials Module 9: Security — knowledge check | 100% ✅ |
+| Sun 8/16 | AWS docs: IAM overview — read | ✅ |
+| Mon 8/17 | Essentials Module 9: Security, continued — knowledge check | 100% ✅ |
 
 ## Exam-day checklist
 
