@@ -44,7 +44,7 @@
 - **Sat 8/15** — Finish Domain 1 recap.
     - [x] Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h
     - [x] Re-read Domain 1 bullets in the exam guide
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
+    - [x] Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, target ≥80%
 - **Sun 8/16** — Shared Responsibility Model in depth; IAM: users, groups, roles, policies, MFA, root account best practices.
     - [ ] Essentials Module 9: Security
     - [ ] AWS docs: IAM overview
@@ -169,6 +169,7 @@
 | Fri 8/14 | Skill Builder: Domain 1 Practice — exam-style questions & flashcards, 40m | ✅ |
 | Sat 8/15 | Skill Builder: Domain 1 Practice: AWS SimuLearn, 1h — completed | ✅ |
 | Sat 8/15 | Re-read Domain 1 bullets in the exam guide | ✅ |
+| Sun 8/16 | Pocket Prep: Build Your Own Quiz — Domain 1 only, second pass, 60 Q | 90% ✅ |
 
 ## Exam-day checklist
 
