@@ -50,8 +50,8 @@
     - [x] AWS docs: IAM overview
 - **Mon 8/17** — Security services survey: GuardDuty, Inspector, Macie, Shield, WAF, Security Hub, KMS.
     - [x] Essentials Module 9: Security, continued
-    - [ ] AWS "What is…" pages
-    - [ ] Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies
+    - [x] AWS "What is…" pages
+    - [x] Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies
 - **Tue 8/18** — Compliance programs and AWS Artifact; AWS vs. customer responsibility for GDPR/HIPAA-type frameworks.
     - [ ] Essentials Module 10: Monitoring, Compliance, and Governance — compliance section
 - **Wed 8/19** — Quiz and review every explanation.
@@ -173,6 +173,8 @@
 | Sun 8/16 | Essentials Module 9: Security — knowledge check | 100% ✅ |
 | Sun 8/16 | AWS docs: IAM overview — read | ✅ |
 | Mon 8/17 | Essentials Module 9: Security, continued — knowledge check | 100% ✅ |
+| Mon 8/17 | AWS "What is…" pages — read | ✅ |
+| Mon 8/17 | Builder Labs: IAM hands-on lab — completed | ✅ |
 
 ## Exam-day checklist
 
