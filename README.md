@@ -53,10 +53,10 @@
     - [x] AWS "What is…" pages
     - [x] Builder Labs: browse the catalog for an IAM hands-on lab, e.g. creating users/policies
 - **Tue 8/18** — Compliance programs and AWS Artifact; AWS vs. customer responsibility for GDPR/HIPAA-type frameworks.
-    - [ ] Essentials Module 10: Monitoring, Compliance, and Governance — compliance section
+    - [x] Essentials Module 10: Monitoring, Compliance, and Governance — compliance section
 - **Wed 8/19** — Quiz and review every explanation.
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 2 only, untimed
-    - [ ] Skill Builder: Domain 2 Practice — exam-style questions & flashcards, 40m
+    - [x] Pocket Prep: Build Your Own Quiz — Domain 2 only, untimed
+    - [x] Skill Builder: Domain 2 Practice — exam-style questions & flashcards, 40m
 - **Thu 8/20** — Recap day.
     - [ ] Skill Builder: Domain 2 Review, 1h 5m
     - [ ] Skill Builder: Domain 2 Practice: AWS SimuLearn, 1h
