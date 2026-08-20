@@ -57,12 +57,12 @@
 - **Wed 8/19** — Quiz and review every explanation.
     - [x] Pocket Prep: Build Your Own Quiz — Domain 2 only, untimed
     - [x] Skill Builder: Domain 2 Practice — exam-style questions & flashcards, 40m
-- **Thu 8/20** — Recap day.
+- **Thu 8/20** — Break day. No new material.
+- **Fri 8/21** — Recap day + Compute: EC2 instance families, Lambda, Elastic Beanstalk, containers at a glance (ECS/EKS/Fargate).
     - [ ] Skill Builder: Domain 2 Review, 1h 5m
     - [ ] Skill Builder: Domain 2 Practice: AWS SimuLearn, 1h
     - [ ] Re-read Domain 2 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%
-- **Fri 8/21** — Compute: EC2 instance families, Lambda, Elastic Beanstalk, containers at a glance (ECS/EKS/Fargate).
     - [ ] Essentials Module 3: Exploring Compute Services
     - [ ] Builder Lab: "Introduction to Amazon EC2"
 
