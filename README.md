@@ -58,20 +58,20 @@
     - [x] Pocket Prep: Build Your Own Quiz — Domain 2 only, untimed
     - [x] Skill Builder: Domain 2 Practice — exam-style questions & flashcards, 40m
 - **Thu 8/20** — Break day. No new material.
-- **Fri 8/21** — Recap day.
+- **Fri 8/21** — Break day. No new material.
+
+## Week 3 — Aug 22–28 — Domain 3: Compute, Storage, Networking & Management
+
+- **Sat 8/22** — Recap day + Compute: EC2 instance families, Lambda, Elastic Beanstalk, containers at a glance (ECS/EKS/Fargate).
     - [ ] Skill Builder: Domain 2 Review, 1h 5m
     - [ ] Skill Builder: Domain 2 Practice: AWS SimuLearn, 1h
     - [ ] Re-read Domain 2 bullets in the exam guide
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%
-
-## Week 3 — Aug 22–28 — Domain 3: Compute, Storage, Networking & Management
-
-- **Sat 8/22** — Compute: EC2 instance families, Lambda, Elastic Beanstalk, containers at a glance (ECS/EKS/Fargate). Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual).
     - [ ] Essentials Module 3: Exploring Compute Services
     - [ ] Builder Lab: "Introduction to Amazon EC2"
+- **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [ ] Essentials Module 6: Storage
     - [ ] Builder Lab: "Introduction to Amazon S3"
-- **Sun 8/23** — Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [ ] Essentials Module 5: Networking
     - [ ] Builder Lab: "Introduction to Amazon VPC"
 - **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
