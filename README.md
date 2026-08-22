@@ -175,6 +175,7 @@
 | Mon 8/17 | Essentials Module 9: Security, continued — knowledge check | 100% ✅ |
 | Mon 8/17 | AWS "What is…" pages — read | ✅ |
 | Mon 8/17 | Builder Labs: IAM hands-on lab — completed | ✅ |
+| Sat 8/22 | Essentials Module 3: Exploring Compute Services — knowledge check | 100% ✅ |
 
 ## Exam-day checklist
 
