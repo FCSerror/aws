@@ -72,7 +72,7 @@
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [ ] Essentials Module 6: Storage
     - [ ] Builder Lab: "Introduction to Amazon S3"
-    - [ ] Essentials Module 5: Networking
+    - [x] Essentials Module 5: Networking
     - [ ] Builder Lab: "Introduction to Amazon VPC"
 - **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
     - [ ] Essentials Module 7: Databases
@@ -176,6 +176,7 @@
 | Mon 8/17 | AWS "What is…" pages — read | ✅ |
 | Mon 8/17 | Builder Labs: IAM hands-on lab — completed | ✅ |
 | Sat 8/22 | Essentials Module 3: Exploring Compute Services — knowledge check | 100% ✅ |
+| Sun 8/23 | Essentials Module 5: Networking — knowledge check | 93% ✅ |
 
 ## Exam-day checklist
 
