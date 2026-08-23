@@ -68,15 +68,11 @@
     - [x] Re-read Domain 2 bullets in the exam guide
     - [ ] ~~Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%~~ — skipped
     - [x] Essentials Module 3: Exploring Compute Services
-    - [ ] Builder Lab: "Introduction to Amazon EC2"
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [ ] Essentials Module 6: Storage
-    - [ ] Builder Lab: "Introduction to Amazon S3"
     - [x] Essentials Module 5: Networking
-    - [ ] Builder Lab: "Introduction to Amazon VPC"
 - **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
     - [ ] Essentials Module 7: Databases
-    - [ ] Builder Labs: browse the catalog for a DynamoDB or RDS hands-on lab
 - **Tue 8/25** — Quiz on compute/storage/network/database subset.
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed
     - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h
@@ -89,6 +85,15 @@
 - **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness.
     - [ ] Essentials Module 12: Migrating to the AWS Cloud
     - [ ] Essentials Module 8: AI/ML and Data Analytics
+
+## If time available
+
+Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realistic. Do these only once the day's core material is done with time to spare — they reinforce Domain 3 service concepts but aren't required for exam-style question practice, since SimuLearn already covers hands-on scenario practice per domain.
+
+- [ ] Builder Lab: "Introduction to Amazon EC2"
+- [ ] Builder Lab: "Introduction to Amazon S3"
+- [ ] Builder Lab: "Introduction to Amazon VPC"
+- [ ] Builder Labs: browse the catalog for a DynamoDB or RDS hands-on lab
 
 ## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support (+ start of full review)
 
@@ -145,7 +150,7 @@
 - Official Practice Question Set — Skill Builder, 20 questions
 - Official Practice Exam — Skill Builder, **65 questions, 90 min timed** (corrected from 50 Q)
 - Exam Prep Summary (5m) — Skill Builder — closing video, watched 9/10
-- AWS Builder Labs — Skill Builder, 200+ hands-on sandboxed labs; used on Compute, Storage, Networking, Database, and IAM days above for hands-on reinforcement, alongside SimuLearn's domain-level scenarios
+- AWS Builder Labs — Skill Builder, 200+ hands-on sandboxed labs; the IAM lab was completed on its scheduled day (8/17), the Compute/Storage/Networking/Database labs were moved to the optional "If time available" section, alongside SimuLearn's domain-level scenarios
 - Whitepapers: [*Overview of Amazon Web Services*](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html), [*AWS Well-Architected Framework*](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) (the standalone PDF is archived — this is now living documentation, updated continuously rather than versioned), [*How AWS Pricing Works*](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
 - AWS Pricing Calculator — hands-on tool
 - Pocket Prep — Build Your Own Quiz (filtered to one domain, untimed) for Weeks 1–4 domain quizzes and the Day 1 baseline; Weakest Subject Quiz for rest-day light review; Build Your Own Quiz (all domains, 65 Q, self-timed to 90 min with an external clock) for the Week 5 exam simulations; Missed Questions Quiz after every quiz and exam to review explanations, even on correct answers
