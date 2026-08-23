@@ -69,7 +69,7 @@
     - [ ] ~~Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%~~ — skipped
     - [x] Essentials Module 3: Exploring Compute Services
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
-    - [ ] Essentials Module 6: Storage
+    - [x] Essentials Module 6: Storage
     - [x] Essentials Module 5: Networking
 - **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
     - [ ] Essentials Module 7: Databases
@@ -182,6 +182,7 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
 | Mon 8/17 | Builder Labs: IAM hands-on lab — completed | ✅ |
 | Sat 8/22 | Essentials Module 3: Exploring Compute Services — knowledge check | 100% ✅ |
 | Sun 8/23 | Essentials Module 5: Networking — knowledge check | 93% ✅ |
+| Sun 8/23 | Essentials Module 6: Storage — knowledge check | 100% ✅ |
 
 ## Exam-day checklist
 
