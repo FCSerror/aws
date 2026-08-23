@@ -86,15 +86,6 @@
     - [ ] Essentials Module 12: Migrating to the AWS Cloud
     - [ ] Essentials Module 8: AI/ML and Data Analytics
 
-## If time available
-
-Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realistic. Do these only once the day's core material is done with time to spare — they reinforce Domain 3 service concepts but aren't required for exam-style question practice, since SimuLearn already covers hands-on scenario practice per domain.
-
-- [ ] Builder Lab: "Introduction to Amazon EC2"
-- [ ] Builder Lab: "Introduction to Amazon S3"
-- [ ] Builder Lab: "Introduction to Amazon VPC"
-- [ ] Builder Labs: browse the catalog for a DynamoDB or RDS hands-on lab
-
 ## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support (+ start of full review)
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on.
@@ -135,6 +126,15 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
     - [ ] Confirm exam logistics
     - [ ] Sleep early
 - **Fri 9/11 — EXAM DAY** — Check in (or complete online proctoring check-in) 30 minutes early. No new material — trust the prep.
+
+## If time available
+
+Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realistic. Do these only once the day's core material is done with time to spare — they reinforce Domain 3 service concepts but aren't required for exam-style question practice, since SimuLearn already covers hands-on scenario practice per domain.
+
+- [ ] Builder Lab: "Introduction to Amazon EC2"
+- [ ] Builder Lab: "Introduction to Amazon S3"
+- [ ] Builder Lab: "Introduction to Amazon VPC"
+- [ ] Builder Labs: browse the catalog for a DynamoDB or RDS hands-on lab
 
 ## Resources
 
