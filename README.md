@@ -66,7 +66,7 @@
     - [x] Skill Builder: Domain 2 Review, 1h 5m
     - [ ] ~~Skill Builder: Domain 2 Practice: AWS SimuLearn, 1h~~ — skipped
     - [x] Re-read Domain 2 bullets in the exam guide
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%
+    - [ ] ~~Pocket Prep: Build Your Own Quiz — Domain 2 only, second pass, target ≥80%~~ — skipped
     - [x] Essentials Module 3: Exploring Compute Services
     - [ ] Builder Lab: "Introduction to Amazon EC2"
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
