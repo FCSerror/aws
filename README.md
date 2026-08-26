@@ -71,36 +71,33 @@
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [x] Essentials Module 6: Storage
     - [x] Essentials Module 5: Networking
-- **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
-    - [ ] Essentials Module 7: Databases
-- **Tue 8/25** — Quiz on compute/storage/network/database subset.
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed
-    - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h
-- **Wed 8/26** — Recap week.
-    - [ ] Skill Builder: Domain 3 Review, 1h 5m
-    - [ ] Re-skim any service overview page that still feels unfamiliar
-    - [ ] Skill Builder: Domain 3 Practice: AWS SimuLearn, 1h
-- **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
+- **Mon 8/24** — Missed. Essentials Module 7: Databases carried forward to 8/27.
+- **Tue 8/25** — Missed. Domain 3 quiz carried forward to 8/28.
+- **Wed 8/26** — Missed. Domain 3 review carried forward to 8/30; SimuLearn and service-page re-skim dropped.
+- **Thu 8/27** — Databases; management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
+    - [ ] Essentials Module 7: Databases — carried forward from 8/24
     - [ ] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section
-- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness.
+- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
     - [ ] Essentials Module 12: Migrating to the AWS Cloud
     - [ ] Essentials Module 8: AI/ML and Data Analytics
+    - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
+    - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
 
-## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support (+ start of full review)
+## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support, compressed + buffer days
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on.
     - [ ] Essentials Module 11: Pricing and Support
     - [ ] AWS Pricing Calculator
-- **Sun 8/30** — Rest day, light review only.
-    - [ ] Pocket Prep: Weakest Subject Quiz — Domain 4 focus
-- **Mon 8/31** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing.
+- **Sun 8/30** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing; Domain 3 review.
     - [ ] Essentials Module 11: Pricing and Support, continued
     - [ ] Whitepaper: ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
-- **Tue 9/1** — Quiz on remaining Domain 3 topics + Domain 4 quiz.
-    - [ ] Pocket Prep: Build Your Own Quiz — Domains 3 & 4, untimed
+    - [ ] Skill Builder: Domain 3 Review, 1h 5m — carried forward from 8/26
+- **Mon 8/31** — Domain 4 quiz and review.
+    - [ ] Pocket Prep: Build Your Own Quiz — Domain 4 only, untimed
     - [ ] Skill Builder: Domain 4 Practice — exam-style questions & flashcards, 45m
-- **Wed 9/2** — Recap Domains 3 & 4 against the exam guide bullets.
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
+- **Tue 9/1** — Buffer day. Catch up on anything behind schedule, or rest.
+- **Wed 9/2** — Buffer day. Catch up on anything behind schedule, or rest.
 - **Thu 9/3** — Take the official practice set, then review every question.
     - [X] Skill Builder: Official Practice Question Set, 20 Q
 - **Fri 9/4** — Full-topic review via the gamified escape room; otherwise open/buffer, catch up on anything behind schedule.
