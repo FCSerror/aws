@@ -71,14 +71,14 @@
 - **Sun 8/23** — Storage: S3 storage classes, EBS vs. EFS, Storage Gateway, Snow Family (conceptual). Networking: VPC, subnets, internet/NAT gateways, Route 53, CloudFront, Direct Connect.
     - [x] Essentials Module 6: Storage
     - [x] Essentials Module 5: Networking
-- **Mon 8/24** — Missed. Essentials Module 7: Databases carried forward to 8/27.
+- **Mon 8/24** — Databases: RDS, Aurora, DynamoDB, Redshift — relational vs. NoSQL vs. warehouse, conceptually.
+    - [x] Essentials Module 7: Databases
 - **Tue 8/25** — Missed. Domain 3 quiz carried forward to 8/28.
 - **Wed 8/26** — Missed. Domain 3 review carried forward to 8/30; SimuLearn and service-page re-skim dropped.
-- **Thu 8/27** — Databases; management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
-    - [ ] Essentials Module 7: Databases — carried forward from 8/24
-    - [ ] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section
-- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
-    - [ ] Essentials Module 12: Migrating to the AWS Cloud
+- **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager; migration & deployment pulled forward since Module 10 was already done.
+    - [x] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section — completed 8/18 alongside the compliance section
+    - [ ] Essentials Module 12: Migrating to the AWS Cloud — pulled forward from 8/28
+- **Fri 8/28** — Light pass on ML/analytics awareness; Domain 3 quiz.
     - [ ] Essentials Module 8: AI/ML and Data Analytics
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
     - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
@@ -177,9 +177,11 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
 | Mon 8/17 | Essentials Module 9: Security, continued — knowledge check | 100% ✅ |
 | Mon 8/17 | AWS "What is…" pages — read | ✅ |
 | Mon 8/17 | Builder Labs: IAM hands-on lab — completed | ✅ |
+| Tue 8/18 | Essentials Module 10: Monitoring, Compliance, and Governance — knowledge check (both compliance and monitoring sections) | ✅ |
 | Sat 8/22 | Essentials Module 3: Exploring Compute Services — knowledge check | 100% ✅ |
 | Sun 8/23 | Essentials Module 5: Networking — knowledge check | 93% ✅ |
 | Sun 8/23 | Essentials Module 6: Storage — knowledge check | 100% ✅ |
+| Mon 8/24 | Essentials Module 7: Databases — knowledge check | 100% ✅ |
 
 ## Exam-day checklist
 
