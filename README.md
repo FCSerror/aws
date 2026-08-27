@@ -75,10 +75,10 @@
     - [x] Essentials Module 7: Databases
 - **Tue 8/25** — Missed. Domain 3 quiz carried forward to 8/28.
 - **Wed 8/26** — Missed. Domain 3 review carried forward to 8/30; SimuLearn and service-page re-skim dropped.
-- **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager; migration & deployment pulled forward since Module 10 was already done.
+- **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
     - [x] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section — completed 8/18 alongside the compliance section
-    - [ ] Essentials Module 12: Migrating to the AWS Cloud — pulled forward from 8/28
-- **Fri 8/28** — Light pass on ML/analytics awareness; Domain 3 quiz.
+- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
+    - [ ] Essentials Module 12: Migrating to the AWS Cloud
     - [ ] Essentials Module 8: AI/ML and Data Analytics
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
     - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
