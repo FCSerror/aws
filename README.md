@@ -78,25 +78,25 @@
 - **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
     - [x] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section — completed 8/18 alongside the compliance section
 - **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
-    - [ ] Essentials Module 12: Migrating to the AWS Cloud
+    - [x] Essentials Module 12: Migrating to the AWS Cloud
     - [ ] Essentials Module 8: AI/ML and Data Analytics
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
     - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
 
-## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support, compressed + buffer days
+## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support, compressed + buffer day
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on.
     - [ ] Essentials Module 11: Pricing and Support
     - [ ] AWS Pricing Calculator
-- **Sun 8/30** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing; Domain 3 review.
+- **Sun 8/30** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing.
     - [ ] Essentials Module 11: Pricing and Support, continued
     - [ ] Whitepaper: ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
-    - [ ] Skill Builder: Domain 3 Review, 1h 5m — carried forward from 8/26
-- **Mon 8/31** — Domain 4 quiz and review.
+- **Mon 8/31** — Domain 4 quiz and practice.
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 4 only, untimed
     - [ ] Skill Builder: Domain 4 Practice — exam-style questions & flashcards, 45m
+- **Tue 9/1** — Domain 3 and Domain 4 review, carried forward from 8/30 and 8/31.
+    - [ ] Skill Builder: Domain 3 Review, 1h 5m — carried forward from 8/26
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
-- **Tue 9/1** — Buffer day. Catch up on anything behind schedule, or rest.
 - **Wed 9/2** — Buffer day. Catch up on anything behind schedule, or rest.
 - **Thu 9/3** — Take the official practice set, then review every question.
     - [X] Skill Builder: Official Practice Question Set, 20 Q
@@ -182,6 +182,7 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
 | Sun 8/23 | Essentials Module 5: Networking — knowledge check | 93% ✅ |
 | Sun 8/23 | Essentials Module 6: Storage — knowledge check | 100% ✅ |
 | Mon 8/24 | Essentials Module 7: Databases — knowledge check | 100% ✅ |
+| Fri 8/28 | Essentials Module 12: Migrating to the AWS Cloud — knowledge check | 89% ✅ |
 
 ## Exam-day checklist
 
