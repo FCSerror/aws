@@ -86,11 +86,11 @@
 ## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support, compressed + buffer day
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on.
-    - [ ] Essentials Module 11: Pricing and Support
-    - [ ] AWS Pricing Calculator
+    - [x] Essentials Module 11: Pricing and Support
+    - [x] AWS Pricing Calculator
 - **Sun 8/30** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing.
-    - [ ] Essentials Module 11: Pricing and Support, continued
-    - [ ] Whitepaper: ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
+    - [x] Essentials Module 11: Pricing and Support, continued
+    - [x] Whitepaper: ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
 - **Mon 8/31** — Domain 4 quiz and practice.
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 4 only, untimed
     - [ ] Skill Builder: Domain 4 Practice — exam-style questions & flashcards, 45m
@@ -184,6 +184,9 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
 | Mon 8/24 | Essentials Module 7: Databases — knowledge check | 100% ✅ |
 | Fri 8/28 | Essentials Module 12: Migrating to the AWS Cloud — knowledge check | 89% ✅ |
 | Fri 8/28 | Essentials Module 8: AI/ML and Data Analytics — knowledge check | 80% ✅ |
+| Sun 8/30 | Essentials Module 11: Pricing and Support — knowledge check | 100% ✅ |
+| Sun 8/30 | AWS Pricing Calculator — reviewed | ✅ |
+| Sun 8/30 | Whitepaper "How AWS Pricing Works" — read | ✅ |
 
 ## Exam-day checklist
 
