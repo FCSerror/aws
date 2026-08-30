@@ -79,7 +79,7 @@
     - [x] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section — completed 8/18 alongside the compliance section
 - **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
     - [x] Essentials Module 12: Migrating to the AWS Cloud
-    - [ ] Essentials Module 8: AI/ML and Data Analytics
+    - [x] Essentials Module 8: AI/ML and Data Analytics
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
     - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
 
@@ -183,6 +183,7 @@ Hands-on Builder Labs pulled out of the Week 3 daily schedule to keep it realist
 | Sun 8/23 | Essentials Module 6: Storage — knowledge check | 100% ✅ |
 | Mon 8/24 | Essentials Module 7: Databases — knowledge check | 100% ✅ |
 | Fri 8/28 | Essentials Module 12: Migrating to the AWS Cloud — knowledge check | 89% ✅ |
+| Fri 8/28 | Essentials Module 8: AI/ML and Data Analytics — knowledge check | 80% ✅ |
 
 ## Exam-day checklist
 
