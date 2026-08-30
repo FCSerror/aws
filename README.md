@@ -77,13 +77,11 @@
 - **Wed 8/26** — Missed. Domain 3 review carried forward to 8/30; SimuLearn and service-page re-skim dropped.
 - **Thu 8/27** — Management & monitoring: CloudWatch, CloudTrail, AWS Config, Trusted Advisor, Systems Manager.
     - [x] Essentials Module 10: Monitoring, Compliance, and Governance — monitoring section — completed 8/18 alongside the compliance section
-- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness; Domain 3 quiz.
+- **Fri 8/28** — Migration & deployment: CloudFormation, Snow Family, DMS, Organizations; light pass on ML/analytics awareness.
     - [x] Essentials Module 12: Migrating to the AWS Cloud
     - [x] Essentials Module 8: AI/ML and Data Analytics
-    - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed — carried forward from 8/25
-    - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h — carried forward from 8/25
 
-## Week 4 — Aug 29–Sep 4 — Domain 4: Billing, Pricing & Support, compressed + buffer day
+## Week 4 — Aug 29–Sep 4 — Domain 4 content, then review of all domains — all core content now covered
 
 - **Sat 8/29** — Pricing models: On-Demand vs. Reserved vs. Spot vs. Savings Plans. Build one estimate hands-on.
     - [x] Essentials Module 11: Pricing and Support
@@ -91,35 +89,44 @@
 - **Sun 8/30** — Support plans (Basic/Developer/Business/Enterprise); billing tools: Cost Explorer, Budgets, Consolidated Billing.
     - [x] Essentials Module 11: Pricing and Support, continued
     - [x] Whitepaper: ["How AWS Pricing Works"](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/introduction.html)
-- **Mon 8/31** — Domain 4 quiz and practice.
+- **Mon 8/31** — Domain 3 quiz and practice, carried forward from 8/25.
+    - [ ] Pocket Prep: Build Your Own Quiz — Domain 3 only, untimed
+    - [ ] Skill Builder: Domain 3 Practice — exam-style questions & flashcards, 1h
+    - [ ] Review your notes — Domain 3
+- **Tue 9/1** — Domain 4 quiz and practice.
     - [ ] Pocket Prep: Build Your Own Quiz — Domain 4 only, untimed
     - [ ] Skill Builder: Domain 4 Practice — exam-style questions & flashcards, 45m
-- **Tue 9/1** — Domain 3 and Domain 4 review, carried forward from 8/30 and 8/31.
+    - [ ] Review your notes — Domain 4
+- **Wed 9/2** — Rest day. No material.
+- **Thu 9/3** — Domain 3 and Domain 4 review.
     - [ ] Skill Builder: Domain 3 Review, 1h 5m — carried forward from 8/26
     - [ ] Skill Builder: Domain 4 Review, 1h 5m — no Domain 4 SimuLearn exists, only Domains 1–3
-- **Wed 9/2** — Buffer day. Catch up on anything behind schedule, or rest.
-- **Thu 9/3** — Take the official practice set, then review every question.
-    - [X] Skill Builder: Official Practice Question Set, 20 Q
-- **Fri 9/4** — Full-topic review via the gamified escape room; otherwise open/buffer, catch up on anything behind schedule.
+    - [ ] Review your notes — Domains 3 & 4
+- **Fri 9/4** — Full-topic review via the gamified escape room.
     - [ ] Skill Builder: AWS Escape Room: Exam Prep for CLF-C02, ~2–3h practice mode
+    - [ ] Review your notes — all domains
 
 ## Week 5 — Sep 5–11 — Full review, practice exams & exam day
 
 - **Sat 9/5** — First full-length timed exam simulation, now that all four domains are covered.
     - [ ] Skill Builder: Official Pretest, 65 Q, 90 min timed, per-domain scoring
-- **Sun 9/6** — Rest day, light review only.
-    - [ ] Pocket Prep: Weakest Subject Quiz
+    - [ ] Review your notes — all domains
+- **Sun 9/6** — Rest day. No material.
 - **Mon 9/7** — Another full-length timed exam; compare score trend against Saturday's Pretest.
     - [ ] Pocket Prep: Build Your Own Quiz — all domains, 65 Q, self-timed to 90 min
+    - [ ] Review your notes — all domains
 - **Tue 9/8** — Closest simulation to the real thing — treat it like exam day.
     - [ ] Skill Builder: Official Practice Exam, 65 Q, 90 min timed
+    - [ ] Review your notes — all domains
 - **Wed 9/9** — Review every miss.
     - [ ] Re-skim the Well-Architected Framework's 6 pillars and the shared-responsibility diagram
     - [ ] Essentials Module 13: Well-Architected Solutions, re-watch
+    - [ ] Review your notes — weakest domains from today's misses
 - **Thu 9/10** — Light review only, no new material.
     - [ ] Pocket Prep: Weakest Subject Quiz on your weakest domain
     - [ ] One top-to-bottom skim of the exam guide outline
     - [ ] Skill Builder: Exam Prep Summary, 5m
+    - [ ] Review your notes — weakest domain
     - [ ] Confirm exam logistics
     - [ ] Sleep early
 - **Fri 9/11 — EXAM DAY** — Check in (or complete online proctoring check-in) 30 minutes early. No new material — trust the prep.
